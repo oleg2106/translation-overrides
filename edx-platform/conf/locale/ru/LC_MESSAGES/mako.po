@@ -14,7 +14,10 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: lms/templates/courseware/gradebook.html
-#: lms/templates/courseware/instructor_dashboard.html
-msgid "Gradebook"
-msgstr "Итог по оценкам"
+#: lms/templates/instructor/staff_grading.html:11
+msgid "{course_number} Staff Grading"
+msgstr "{course_number} Проверка преподавателем"
+
+#: lms/templates/instructor/staff_grading.html:22
+msgid "Staff grading"
+msgstr "Проверка преподавателем"

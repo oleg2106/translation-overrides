@@ -24,3 +24,8 @@ msgstr "{num_minute} минут"
 msgid "{num_second} seconds"
 msgstr "{num_second} секунд"
 
+#. Translators: "Staff grading" appears on a tab that allows
+#. staff to view open-ended problems that require staff grading
+#: common/lib/xmodule/xmodule/tabs.py:620
+msgid "Staff grading"
+msgstr "Проверка преподавателем"
