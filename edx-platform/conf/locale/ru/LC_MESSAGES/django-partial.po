@@ -29,3 +29,18 @@ msgstr "{num_second} секунд"
 #: common/lib/xmodule/xmodule/tabs.py:620
 msgid "Staff grading"
 msgstr "Проверка преподавателем"
+
+#. Translators: 'absolute' is a date such as "Jan 01,
+#. 2020". 'relative' is a fuzzy description of the time until
+#. 'absolute'. For example, 'absolute' might be "Jan 01, 2020",
+#. and if today were December 5th, 2020, 'relative' would be "1
+#. month".
+#: lms/djangoapps/courseware/date_summary.py
+#, python-brace-format
+msgid "{relative} ago - {absolute}"
+msgstr "{relative} назад - {absolute}"
+
+#: lms/djangoapps/courseware/date_summary.py
+msgid "Course finished on"
+msgstr "Курс завершился"
+
