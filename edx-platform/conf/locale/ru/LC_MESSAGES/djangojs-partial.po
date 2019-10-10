@@ -1,0 +1,32 @@
+# edX Kursitet fork translation overrides.
+# 
+# Translators:
+# Kursitet support team.
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js
+msgid "Turn on closed captioning"
+msgstr "Включить встроенные субтитры"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js
+msgid "Turn on transcripts"
+msgstr "Включить боковые субтитры"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js
+msgid "Hide closed captions"
+msgstr "Отключить встроенные субтитры"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js
+msgid "Turn off transcripts"
+msgstr "Скрыть боковые субтитры"
+
+#: common/static/common/js/components/views/paging_header.js
+msgid "Showing {firstIndex} out of {numItems} total"
+msgstr "Показаны закладки {firstIndex} из {numItems} "
+
+#: common/static/common/js/components/views/paging_header.js
+msgid "Showing {firstIndex}-{lastIndex} out of {numItems} total"
+msgstr "Показаны закладки {firstIndex}-{lastIndex} из {numItems} "
+
+#: openedx/features/course_bookmarks/static/course_bookmarks/templates/bookmarks-list.underscore
+msgid "Bookmarked on"
+msgstr "Закладка добавлена"

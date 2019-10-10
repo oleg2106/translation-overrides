@@ -29,3 +29,20 @@ msgstr "{num_second} секунд"
 #: common/lib/xmodule/xmodule/tabs.py:620
 msgid "Staff grading"
 msgstr "Проверка преподавателем"
+
+#: lms/djangoapps/courseware/date_summary.py
+msgid ""
+"This course is archived, which means you can review course content but it is"
+" no longer active."
+msgstr ""
+"Обучение завершено, курс перемещён в архив. "
+"Материалы курса доступны для информационных целей."
+
+#: openedx/features/course_search/templates/course_search/course-search-fragment.html
+#: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html
+msgid "My Bookmarks"
+msgstr "Закладки"
+
+#: lms/templates/problem.html
+msgid "Answers are displayed within the problem"
+msgstr "Ответы отображены внутри задания"
